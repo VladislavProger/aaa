@@ -1,5 +1,5 @@
 words = {"банан": "banana", "яблоко": "apple", "и": "and"}
-stroka = input("Введите строку: ")
+stroka = input("Введите строчку: ")
 
 a = [i for i in stroka.split(' ')]
 
